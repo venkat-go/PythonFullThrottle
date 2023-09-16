@@ -77,3 +77,6 @@ The content of this course is based on our book <a href=https://amzn.to/2Kd8dQk 
 
 The authors and publisher of this book have used their best efforts in preparing this book. These efforts include the development, research, and testing of the theories and programs to determine their effectiveness. The authors and publisher make no warranty of any kind, expressed or implied, with regard to these programs or to the documentation contained in this book. The authors and publisher shall not be liable in any event for incidental or consequential damages in connection with, or arising out of, the furnishing, performance, or use of these programs.
 
+
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DowSGVOov9pQ/master)
